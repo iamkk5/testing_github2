@@ -10,5 +10,6 @@ echo "Hello from github";
 echo "Adio";
 echo "Bye";
 
-echo "Farewell:;
+echo "Farewell";
+echo "Goodbye";
 ?>
