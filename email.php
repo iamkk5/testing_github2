@@ -6,4 +6,6 @@ echo "Last email sent...";
 
 echo "Hello from cli";
 echo "Hello from github";
+
+echo "Adio";
 ?>
